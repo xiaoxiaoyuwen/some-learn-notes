@@ -16,12 +16,12 @@ Posted on October 14,2015
 我在加利福利亚。有时会下雨，但是大部分时间都是晴天！假设75%的时间是晴天。我们可以简单的用图来表示：
 
 <p align="center">
-<img src="http://colah.github.io/posts/2015-09-Visual-Information/img/prob-1D-rain.png" width="50%" />
+<img src="http://colah.github.io/posts/2015-09-Visual-Information/img/prob-1D-rain.png" width=120px />
 <p/>
 
 大多数情况下我会穿T恤，有时也会穿外套。假设穿外套的概率是38%。则简单的图形表示为：
 <p align="center">
-<img src="http://colah.github.io/posts/2015-09-Visual-Information/img/prob-1D-coat.png" width="40%" />
+<img src="http://colah.github.io/posts/2015-09-Visual-Information/img/prob-1D-coat.png" width=100px />
 <p/>
 怎么同时可视化天气和穿着的概率呢？如果这两件事情不相互影响--即相互独立的事件，那就很简单了。例如，我**今天**是穿T恤还是穿外套并不受**下周**天气的影响。我们可以使用两个坐标轴分别表示两件事情：
 <p align="center">
